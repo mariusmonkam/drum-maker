@@ -1,0 +1,33 @@
+{
+  "name": "drum-maker",
+  "version": "1.0.0",
+  "description": "Create, manipulate, and compose drum sounds with ease using DrumMaker, the ultimate Node.js package for percussion enthusiasts.",
+  "main": "dist/index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariusmonkam/drum-maker.git"
+  },
+  "keywords": [
+    "music",
+    "sound",
+    "drums",
+    "audio",
+    "composition",
+    "loop",
+    "sound-play",
+    "music creation",
+    "nodejs",
+    "percussion"
+  ],
+  "author": "Marius Monkam",
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/mariusmonkam/drum-maker/issues"
+  },
+  "homepage": "https://github.com/mariusmonkam/drum-maker#readme",
+  "devDependencies": {}
+}
